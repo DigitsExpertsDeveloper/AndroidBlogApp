@@ -7,7 +7,6 @@ import com.actionbarsherlock.view.MenuItem;
 import com.google.ads.AdSize;
 import com.google.ads.AdView;*/
 import com.vips.vipsoftwares.R;
-
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.Uri;
